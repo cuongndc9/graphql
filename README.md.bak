@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # graphql
 
 ![golangci-lint status](https://github.com/103cuong/graphql/workflows/golangci-lint/badge.svg)
